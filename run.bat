@@ -1,0 +1,2 @@
+python LungNodulesDetection.py
+pause
